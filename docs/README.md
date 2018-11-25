@@ -5,7 +5,7 @@
 
 ### IUNSE
 
-* [@Yes](symmetry.yes@gmail.com)
+* [@Yes](http://twitter.com/IUNSEUN)
 
 ### Contributing
 IUNSE is open source. If you would like to contribute to the site, please visit the [contributing guide](https://github.com/IUNSE/IUNSE/blob/master/docs/CONTRIBUTING.md) to get started.
