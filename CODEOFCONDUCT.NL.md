@@ -71,4 +71,6 @@ versie 1.4, beschikbaar op https://www.contributor-covenant.org/nl/version/1/4/c
 
 [homepage]: https://www.contributor-covenant.org/
 
+Dank je.<br/><kbd>t</kbd>&nbsp;<kbd>esc</kbd>
+
 ॥ ｢०｣ • ॐ
