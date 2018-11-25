@@ -43,3 +43,5 @@ Administradores que no sigan o que no hagan cumplir este Código de Conducta pue
 Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en https://www.contributor-covenant.org/es/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org/
+
+॥ ｢०｣ • ॐ
