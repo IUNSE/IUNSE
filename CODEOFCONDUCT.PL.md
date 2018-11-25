@@ -57,7 +57,7 @@ bardziej szczegółowy sposób przez opiekunów projektu.
 ## Egzekwowanie
 
 Przypadki nękania, gróźb oraz innych form nieakceptowalnego zachowania mogą
-być zgłaszane do zespołu projektu pod adresem [iunse.un@gmail.com]. Wszystkie
+być zgłaszane do zespołu projektu pod adresem, iunse.un@gmail.com. Wszystkie
 skargi zostaną odpowiednio rozpatrzone oraz podjęte zostaną działania uznane za
 konieczne i odpowiednie do sytuacji. Zespół projektu ma obowiązek zachowania tożsamości
 osoby zgłaszającej incydent w tajemnicy. Bardziej szczegółowe zasady egzekwowania Kodeksu
@@ -75,5 +75,7 @@ wersji 1.4, dostępnej pod adresem https://www.contributor-covenant.org/version/
 (w języku polskim).
 
 [homepage]: https://www.contributor-covenant.org/
+
+Dzięki.<br/><kbd>t</kbd>&nbsp;<kbd>esc</kbd>
 
 ॥ ｢०｣ • ॐ
