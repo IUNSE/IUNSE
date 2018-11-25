@@ -44,3 +44,5 @@
 जो [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) पर उपलब्ध है।
 
 [मुखपृष्ठ]: https://www.contributor-covenant.org/
+
+॥ ｢०｣ • ॐ
