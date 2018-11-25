@@ -45,4 +45,6 @@
 
 [मुखपृष्ठ]: https://www.contributor-covenant.org/
 
+धन्यवाद।<br/><kbd>t</kbd>&nbsp;<kbd>esc</kbd>
+
 ॥ ｢०｣ • ॐ
