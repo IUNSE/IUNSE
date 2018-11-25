@@ -75,3 +75,5 @@ wersji 1.4, dostępnej pod adresem https://www.contributor-covenant.org/version/
 (w języku polskim).
 
 [homepage]: https://www.contributor-covenant.org/
+
+॥ ｢०｣ • ॐ
