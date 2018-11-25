@@ -34,7 +34,7 @@ Este código de conducta aplica tanto a espacios del proyecto como a espacios p�
  
 ## Aplicación
 
-Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en [iunse.un@gmail.com]. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
+Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en, iunse.un@gmail.com. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
 Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador. 
 
@@ -43,5 +43,7 @@ Administradores que no sigan o que no hagan cumplir este Código de Conducta pue
 Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en https://www.contributor-covenant.org/es/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org/
+
+Gracias.<br/><kbd>t</kbd>&nbsp;<kbd>esc</kbd>
 
 ॥ ｢०｣ • ॐ
