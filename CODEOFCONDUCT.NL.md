@@ -54,7 +54,7 @@ van een project mag verder worden gedefinieerd door de projectonderhouders.
 ## Handhaving
 
 Instanties van beledigend, storend of anders niet aanvaardbaar gedrag mag worden
-gerapporteerd aan het project team op [iunse.un@gmail.com]. Alle klachten zullen
+gerapporteerd aan het project team op, iunse.un@gmail.com. Alle klachten zullen
 besproken en onderzocht worden en zullen resulteren in een antwoord dat nodig en
 passend wordt geacht al naargelang de situatie. Het project team is verplicht om
 vertrouwelijkheid te garanderen met betrekking tot de klager. Verdere details van
