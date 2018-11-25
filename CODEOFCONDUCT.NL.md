@@ -69,4 +69,6 @@ de projectleiding.
 Deze Gedragscode is een  aangepaste versie van  de [Contributor Covenant][homepage],
 versie 1.4, beschikbaar op https://www.contributor-covenant.org/nl/version/1/4/code-of-conduct.html
 
-[homepage]: https://www.contributor-covenant.org
+[homepage]: https://www.contributor-covenant.org/
+
+॥ ｢०｣ • ॐ
